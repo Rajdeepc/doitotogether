@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://github.com/Rajdeepc/code-collab/blob/master/github/logocode.png?raw=true" width="600">
+  <img src="https://github.com/Rajdeepc/doittogether/blob/master/github/logocode.png?raw=true" width="600">
 </p><br>
 
-<p align="center"><a href="https://github.com/Rajdeepc/code-collab/blob/master/LICENSE.md"><img alt="APM" src="https://img.shields.io/apm/l/react"></a> <a href="https://github.com/Rajdeepc/code-collab/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Rajdeepc/code-collab"></a> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Rajdeepc/code-collab">
+<p align="center"><a href="https://github.com/Rajdeepc/doittogether/blob/master/LICENSE.md"><img alt="APM" src="https://img.shields.io/apm/l/react"></a> <a href="https://github.com/Rajdeepc/doittogether/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Rajdeepc/doittogether"></a> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Rajdeepc/code-collab">
 </p>
 
 <p align="center">
   <sub>Developed with ❤︎ by
     <a href="https://github.com/Rajdeepc">Rajdeep Chandra</a> and
-    <a href="https://github.com/Rajdeepc/code-collab/graphs/contributors">contributors</a>
+    <a href="https://github.com/Rajdeepc/doittogether/graphs/contributors">contributors</a>
   </sub>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rajdeepc/code-collab/blob/master/github/code.png?raw=true" width="600">
+  <img src="https://github.com/Rajdeepc/doittogether/blob/master/github/code.png?raw=true" width="600">
 </p><br>
 
 
@@ -29,9 +29,9 @@ Click on any of the below links to support:
 [Patreon](https://www.patreon.com/chandraraj), 
 [PayPal](https://www.paypal.me/RajdeepC)
 
-## About code-collab
+## About Do It Together
 
-<p style="text-align: justify">Code-collab is a web based pair programming tool specifically designed for interviewers to assess candidates' programming skills. It is builtwith features like:
+<p style="text-align: justify">Do It Together is a web based pair programming tool specifically designed for interviewers to assess candidates' programming skills. It is builtwith features like:
 
 ## Features 💡
 
